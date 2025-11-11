@@ -234,4 +234,4 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vunt199802-coder&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vunt199802&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
