@@ -13,7 +13,7 @@
 ---
 
 👋 Hi, I'm Vu | AI & Full-Stack Developer
-**AI Automation | Next.js | FastAPI | LLM Integration | MVP Development**
+**AI | React | Next.js | Python | FastAPI | LLM Integration | SaaS & MVP Development**
 
 *Building the bridge between cutting-edge AI and intuitive user experiences*
 
@@ -231,7 +231,3 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 <br><br>
 
 ---
-
-### :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vunt199802&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
