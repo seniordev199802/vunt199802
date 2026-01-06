@@ -12,7 +12,7 @@
 
 ---
 
-👋 Hi, I'm Vu | AI & Full-Stack Developer
+👋 Hi, I'm an AI & Full-Stack Developer
 **AI | React | Next.js | Python | FastAPI | LLM Integration | SaaS & MVP Development**
 
 *Building the bridge between cutting-edge AI and intuitive user experiences*
